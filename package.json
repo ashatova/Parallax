@@ -1,0 +1,16 @@
+{
+  "name": "parallax-footer",
+  "version": "1.0.0",
+  "description": "plugin for parallax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/justcoded/paralax-footer_jquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/justcoded/paralax-footer_jquery#readme"
+}
